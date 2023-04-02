@@ -23,10 +23,7 @@ import { FormsModule } from '@angular/forms';
         italic: 'Italic',
         code: 'Code',
         underline: 'Underline',
-        align_left: 'Left Align',
-        align_center: 'Center Align',
-        align_right: 'Right Align',
-        align_justify: 'Justify'
+        
 
       },
     })
